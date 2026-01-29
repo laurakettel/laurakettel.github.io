@@ -1,0 +1,7 @@
+.Rproj.user/
+.quarto/
+_quarto/
+_site/
+*.Rproj
+
+/.quarto/
