@@ -18,7 +18,7 @@
     "href": "index.html#links",
     "title": "Laura Kettel",
     "section": "Links",
-    "text": "Links\n&lt;i class=“fa-solid fa-envelope”&gt;&lt;/i&gt; &lt;a href=“mailto:lk@ps.au.dk”&gt;lk@ps.au.dk&lt;/a&gt;&lt;br&gt;\n&lt;i class=“fa-brands fa-bluesky”&gt;&lt;/i&gt; &lt;a href=“https://bsky.app/profile/laurakettel.bsky.social”&gt;@laurakettel.bsky.social&lt;/a&gt;&lt;br&gt;\n&lt;i class=“fa-solid fa-graduation-cap”&gt;&lt;/i&gt; &lt;a href=“https://scholar.google.com/citations?user=VXHHAT4AAAAJ&hl=en”&gt;Google Scholar&lt;/a&gt;&lt;br&gt;\n&lt;i class=“fa-brands fa-github”&gt;&lt;/i&gt; &lt;a href=“https://github.com/laurakettel”&gt;GitHub&lt;/a&gt;"
+    "text": "Links\n```{=html}\n\n lk@ps.au.dk  @laurakettel.bsky.social"
   },
   {
     "objectID": "index.html#current-work",
