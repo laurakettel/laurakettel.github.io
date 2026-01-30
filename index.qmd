@@ -8,11 +8,7 @@ I am a postdoctoral researcher at the Department of Political Science at Aarhus 
 
 My work is organized around a core question: **how institutional arrangements and market risks jointly shape policy outcomes and political behavior.** I pursue two main lines of research. The first examines how political institutions shape policy outputs, with a focus on housing, homelessness governance, and the production of spatial inequality. The second studies how exposure to market risks, particularly in housing and energy markets, affects political attitudes and democratic satisfaction. Methodologically, I use causal inference with observational data, complemented by survey experiments and qualitative data that I transform into structured data for analysis. My work has been published in *Perspectives on Politics* and *The* *Urban Affairs Review*.\
 
-## Links
-
-\<p\> \<i class="fa-solid fa-envelope"\>\</i\> \<a href="mailto:lk\@ps.au.dk"\>lk\@ps.au.dk\</a\>\<br\> \<i class="fa-solid fa-comments"\>\</i\> \<a href="https://bsky.app/profile/laurakettel.bsky.social"\>\@laurakettel.bsky.social\</a\>\<br\> \<i class="fa-solid fa-graduation-cap"\>\</i\> \<a href="https://scholar.google.com/citations?user=VXHHAT4AAAAJ&hl=en"\>Google Scholar\</a\>\<br\> \<i class="fa-brands fa-github"\>\</i\> \<a href="https://github.com/laurakettel"\>GitHub\</a\>\</p\>
-
-Current work
+## Current work
 
 ### Book Project
 
