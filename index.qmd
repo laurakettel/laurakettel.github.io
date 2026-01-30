@@ -4,27 +4,33 @@ title: "Laura Kettel"
 
 ## About me
 
-Write 2–5 sentences here about who you are and what you work on.
+I am a postdoctoral researcher at the Department of Political Science at Aarhus University, working at the intersection of political economy, political institutions, and political behavior. Previously, I was a Fox International Fellow at Yale University (2021–2022). I received my PhD from the Department of Political Science at Freie Universität Berlin in 2023.
+
+My work is organized around a core question: **how institutional arrangements and market risks jointly shape policy outcomes and political behavior.** I pursue two main lines of research. The first examines how political institutions shape policy outputs, with a focus on housing, homelessness governance, and the production of spatial inequality. The second studies how exposure to market risks, particularly in housing and energy markets, affects political attitudes and democratic satisfaction. Methodologically, I use causal inference with observational data, complemented by survey experiments and qualitative data that I transform into structured data for analysis. My work has been published in *Perspectives on Politics* and *Urban Affairs Review*.\
 
 ## Links
 
--   **Email:** yourname\@domain.com
--   **Bluesky:** <https://bsky.app/profile/yourhandle>
--   **Google Scholar:** <https://scholar.google.com/...>
--   **GitHub:** <https://github.com/yourusername>
+-   **Email:** lk\@ps.au.dk
+-   **Bluesky:** [\@laurakettel.bsky.social](https://bsky.app/profile/laurakettel.bsky.social){.uri}
+-   [Google Scholar](https://scholar.google.com/citations?user=VXHHAT4AAAAJ&hl=en){.uri}
+-   [Github](https://github.com/laurakettel){.uri}
 
 ## Current work
 
-Short paragraph about your current research.
+### Book Project
 
-## Publications
+Crisis by Design: How the US designed a system that can't solve homelessness. *Under Review.*
 
-### Peer-reviewed
+### Peer-reviewed Publications
 
--   Author (Year). *Title*. Journal.
+-   Reassessing the Impact of Local Control: When Smaller Local Governments Permit More Housing. Perspectives on Politics (2025). DOI: 10.1017/S1537592725000799.
+-   A Tale of Two Crises: Urban Homelessness Policy during Covid-19. Urban Affairs Review (2024). DOI: 10780874241279762.
 
 ### Working papers
 
--   Author (Year). *Title*.
+-   Energy Burden and Satisfaction with Democracy: The Political Consequences of Market Risk in Germany (with J. Sophia Wang). *Revise & Resubmit.*
+-   The Political Calculus of Land-Use Reform. *Under Review.*
+-   Under Pressure: Household Energy Costs and Political Behavior.
+-   Keeping Out The Huddled Masses: Refugees and Social Housing (with Karoline Kolstad and Martin Vinæs).
 
 \
