@@ -15,6 +15,10 @@ My work is organized around a core question: **how institutional arrangements an
 -   [Google Scholar](https://scholar.google.com/citations?user=VXHHAT4AAAAJ&hl=en){.uri}
 -   [Github](https://github.com/laurakettel){.uri}
 
+## Links
+
+<i class="fa-solid fa-envelope"></i> <a href="mailto:lk@ps.au.dk">lk\@ps.au.dk</a><br> <i class="fa-brands fa-bluesky"></i> `<a href="https://bsky.app/profile/laurakettel.bsky.social"`{=html}@laurakettel.bsky.social</a><br> <i class="fa-solid fa-graduation-cap"></i> `<a href="https://scholar.google.com/citations?user=VXHHAT4AAAAJ&hl=en"`{=html}Google Scholar</a><br> <i class="fa-brands fa-github"></i> `<a href="https://github.com/laurakettel"`{=html}GitHub</a>
+
 ## Current work
 
 ### Book Project
