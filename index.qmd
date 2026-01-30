@@ -6,7 +6,7 @@ title: "Laura Kettel"
 
 I am a postdoctoral researcher at the Department of Political Science at Aarhus University, working at the intersection of political economy, political institutions, and political behavior. Previously, I was a Fox International Fellow at Yale University (2021–2022). I received my PhD from the Department of Political Science at Freie Universität Berlin in 2023.
 
-My work is organized around a core question: **how institutional arrangements and market risks jointly shape policy outcomes and political behavior.** I pursue two main lines of research. The first examines how political institutions shape policy outputs, with a focus on housing, homelessness governance, and the production of spatial inequality. The second studies how exposure to market risks, particularly in housing and energy markets, affects political attitudes and democratic satisfaction. Methodologically, I use causal inference with observational data, complemented by survey experiments and qualitative data that I transform into structured data for analysis. My work has been published in *Perspectives on Politics* and *Urban Affairs Review*.\
+My work is organized around a core question: **how institutional arrangements and market risks jointly shape policy outcomes and political behavior.** I pursue two main lines of research. The first examines how political institutions shape policy outputs, with a focus on housing, homelessness governance, and the production of spatial inequality. The second studies how exposure to market risks, particularly in housing and energy markets, affects political attitudes and democratic satisfaction. Methodologically, I use causal inference with observational data, complemented by survey experiments and qualitative data that I transform into structured data for analysis. My work has been published in *Perspectives on Politics* and *The* *Urban Affairs Review*.\
 
 ## Links
 
@@ -23,8 +23,29 @@ Crisis by Design: How the US designed a system that can't solve homelessness. *U
 
 ### Peer-reviewed Publications
 
--   Reassessing the Impact of Local Control: When Smaller Local Governments Permit More Housing. Perspectives on Politics (2025). DOI: 10.1017/S1537592725000799.
--   A Tale of Two Crises: Urban Homelessness Policy during Covid-19. Urban Affairs Review (2024). DOI: 10780874241279762.
+-   **Reassessing the Impact of Local Control: When Smaller Local Governments Permit More Housing**\
+    *Perspectives on Politics* (2025)\
+    DOI: 10.1017/S1537592725000799
+
+    <details>
+
+    <summary><strong>Abstract</strong></summary>
+
+    Housing scarcity is a widespread social and economic problem. Prior studies have attributed this scarcity to local control over land use, which has been seen as making policy makers more responsive to small electorates. Challenging this argument, we suggest that smaller jurisdictions have stronger incentives and greater capacity to raise tax revenue by building housing. Therefore, expanding the electorate that policy makers are responsive to could lead to a more restrictive housing policy. To explore this question empirically, we study a reform that consolidated some Danish municipalities, increasing the size of their jurisdiction. Using a difference-in-differences design, we find that consolidated municipalities issue fewer permits and complete less housing than smaller jurisdictions. Our study thus shows that politicians permitted more housing when they were accountable to a smaller electorate. This upends conventional wisdom and suggests that local control need not be at odds with more liberal land use policy.
+
+    </details>
+
+-   **A Tale of Two Crises: Urban Homelessness Policy during Covid-19\
+    ***Urban Affairs Review* (2024). *\
+    *DOI: 10780874241279762.
+
+-   <details>
+
+    <summary><strong>Abstract</strong></summary>
+
+    At the onset of the Covid-19 pandemic, the situation of people experiencing homelessness, and what communities could do to protect this vulnerable subpopulation, emerged as an area of particular concern. People experiencing homelessness are both less likely to be able to self-isolate and more likely to suffer a severe case of Covid-19. To date, however, research on local targeted responses remains limited. This study fills a critical gap by providing the most extensive dataset to date on policy responses targeting homelessness during the pandemic. I analyze local policy responses across 254 U.S. communities, offering insights into the diversity and prevalence of measures implemented. The analysis suggests that variation in local responses is shaped by contextual factors, highlighting how the localized governance of homelessness exacerbates spatial inequalities in the absence of federal guidance.
+
+    </details>
 
 ### Working papers
 
