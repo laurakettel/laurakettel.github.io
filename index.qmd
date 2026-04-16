@@ -63,6 +63,21 @@ My work is organized around a core question: **how institutional arrangements an
 
 ## Peer-reviewed publications
 
+**Energy Burden and SWD: The Political Consequences of Market Risk in Germany** (with J. Sophia Wang).\
+*Conditionally accepted at Comparative Political Studies.*
+
+</a>
+
+<details>
+<summary>Abstract</summary>
+
+Recent years have seen steep increases in energy costs for households. To date, research on the political consequences of this emergent risk is limited. To explore this relationship for the context of Germany, we leverage an instrumental variable design, drawing on zipcode level data on energy prices, household expenditures, and individual political attitudes. We present causal evidence that rising energy costs contribute to decreased satisfaction with democracy (SWD). We argue theoretically and show empirically that the effect is driven by a pocketbook mechanism. By centering the consequences of household energy cost, we contribute to existing lines of research investigating the relationship between perceptions of economic well-being and SWD for the specific context of energy markets. The political implications of rising energy prices will likely become increasingly salient in the future, as governments tackle the challenge of designing socially just energy transition policies.
+
+</details>
+
+</span>
+
+
 **Reassessing the Impact of Local Control: When Smaller Local Governments Permit More Housing.** *Perspectives on Politics* (2025). [DOI](https://doi.org/10.1017/S1537592725000799)
 
 </a>
@@ -90,21 +105,6 @@ At the onset of the Covid-19 pandemic, the situation of people experiencing home
 </span>
 
 ## Working papers
-
-**Energy Burden and SWD: The Political Consequences of Market Risk in Germany** (with J. Sophia Wang).\
-*Conditionally accepted at Comparative Political Studies.*
-
-</a>
-
-<details>
-<summary>Abstract</summary>
-
-Recent years have seen steep increases in energy costs for households. To date, research on the political consequences of this emergent risk is limited. To explore this relationship for the context of Germany, we leverage an instrumental variable design, drawing on zipcode level data on energy prices, household expenditures, and individual political attitudes. We present causal evidence that rising energy costs contribute to decreased satisfaction with democracy (SWD). We argue theoretically and show empirically that the effect is driven by a pocketbook mechanism. By centering the consequences of household energy cost, we contribute to existing lines of research investigating the relationship between perceptions of economic well-being and SWD for the specific context of energy markets. The political implications of rising energy prices will likely become increasingly salient in the future, as governments tackle the challenge of designing socially just energy transition policies.
-
-</details>
-
-</span>
-
 
 **The Political Calculus of Land-Use Reform**\
 *Under review.*
