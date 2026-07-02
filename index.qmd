@@ -34,7 +34,7 @@ Postdoc, Chair of Political Sociology and Methods, Universität Greifswald
 
 Welcome to my website. Here you can find information about my publications and current research projects, and download my CV.
 
-<a class="btn btn-outline-dark" href="https://www.dropbox.com/scl/fi/w2sust7oqinye0jv6h9vg/CV_Website.pdf?rlkey=er2p92shthx4srg8n91k33e79&st=3rrl0yjb&dl=0" target="_blank">
+<a class="btn btn-outline-dark" href="https://www.dropbox.com/scl/fi/pxhdqgqvh9fjyxd6wyvtx/CV_Jul26.pdf?rlkey=mmakbdm4dpizzn35dba8jlm8c&st=naatb0k2&dl=0">
 Download CV
 </a>
 
