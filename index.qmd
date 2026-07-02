@@ -52,14 +52,14 @@ Download CV
 
 ## Welcome!
 
-I am a postdoctoral researcher at the Department of Political Science and Communication Studies at University of Greifswald, working at the intersection of political economy, political institutions, and political behavior. Previously, I was a Fox International Fellow at Yale University (2021–2022). I received my PhD from the Department of Political Science at Freie Universität Berlin in 2023. I am also affiliated with the POLICITY research group at Aarhus University.
+I am a postdoctoral researcher at the Department of Political Science and Communication Studies at University of Greifswald, working at the intersection of political economy, political institutions, and political behavior. Previously, I was a Fox International Fellow at Yale University (2021–2022). I received my PhD from the Department of Political Science at Freie Universität Berlin in 2023. I am also affiliated with the POLICITY research group at Aarhus University. 
 
-My work is organized around a core question: **how institutional arrangements and market risks jointly shape policy outcomes and political behavior.** I pursue two main lines of research. The first examines how institutional design and intergovernmental governance structures shape policy choices and the production of spatial inequality, with a focus on land-use regulation and homelessness governance. The second studies how citizens’ exposure to market risks, especially rising housing and energy costs, affects political attitudes, satisfaction with democracy, and political behavior. Methodologically, I use causal inference with observational data, complemented by survey experiments and the systematic coding of qualitative and administrative sources. My work has been published in *Perspectives on Politics* and the *Urban Affairs Review*.
+My work is organized around a core question: **how institutional arrangements and market risks jointly shape policy outcomes and political behavior.** I pursue two main lines of research. The first examines how institutional design and intergovernmental governance structures shape policy choices and the production of spatial inequality, with a focus on land-use regulation and homelessness governance. The second studies how citizens’ exposure to market risks, especially rising housing and energy costs, affects political attitudes, satisfaction with democracy, and political behavior. Methodologically, I use causal inference with observational data, complemented by survey experiments and the systematic coding of qualitative and administrative sources. My work has been recognized with the Susan Clarke Young Scholar Award by the APSA Urban Politics Section.
 
 
 ## Book project
 
-*Crisis by Design: How the US designed a system that can't solve homelessness.* Under review.
+*Crisis by Design: How the US designed a system that can't solve homelessness.* 
 
 ## Peer-reviewed publications
 
@@ -107,7 +107,7 @@ At the onset of the Covid-19 pandemic, the situation of people experiencing home
 ## Working papers
 
 **The Political Calculus of Land-Use Reform**\
-*Under review.*
+*Revise and Resubmit.*
 
 </a>
 
