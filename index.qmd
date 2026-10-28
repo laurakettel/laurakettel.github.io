@@ -34,7 +34,7 @@ Postdoc, Chair of Political Sociology and Methods, Universität Greifswald
 
 Welcome to my website. Here you can find information about my publications and current research projects, and download my CV.
 
-<a class="btn btn-outline-dark" href="https://www.dropbox.com/scl/fi/5lqxjfnajqgnm5cvfuzso/CV_Kettel_2026.pdf?rlkey=xj4qcv0prwrp73mtfpup9muvx&st=131heu1u&dl=0">
+<a class="btn btn-outline-dark" href="https://www.dropbox.com/scl/fi/i5p0fw8ql3dyrsnpcu0ik/CV.pdf?rlkey=jwyhx4omuv7m9cd3ireo9utlh&st=5zkhozm4&dl=0">
 Download CV
 </a>
 
@@ -64,7 +64,7 @@ My work is organized around a core question: **how institutional arrangements an
 ## Peer-reviewed publications
 
 **Energy Burden and SWD: The Political Consequences of Market Risk in Germany** (with J. Sophia Wang).\
-*Accepted at Comparative Political Studies.*
+*Accepted for Publication at Comparative Political Studies.*
 
 </a>
 
@@ -121,14 +121,14 @@ Institutional design plays a central role in shaping when policymakers are willi
 </span>
 
 
-**Under Pressure: Household Energy Costs and Political Behavior**
+**The Politics of Energy Prices: Experimental Evidence from Germany**
 
 </a>
 
 <details>
 <summary>Abstract</summary>y>
 
-Household energy prices have emerged as a central channel through which citizens experience contemporary economic uncertainty amid geopolitical shocks and the green transition. Yet we know little about whether these costs shape political attitudes and voting behavior, and through what channels. This paper investigates the political consequences of energy-price salience in Germany, focusing on the mechanisms through which citizens translate cost signals into evaluations of democratic performance. Drawing on granular local energy price data to measure shock exposure between federal elections, as well as original survey data (N = 3000) and a preregistered survey experiment, I show that exposure to information about rising energy costs produces moderate but statistically meaningful declines in SWD. Probing mechanisms, I find that beyond immediate pocketbook concerns, respondents extrapolate from energy-price signals to the broader economy, expressing diffuse insecurity about the future. These patterns highlight how seemingly narrow household cost pressures can spill over into system-level evaluations, underscoring the importance of managing consumer-facing costs to sustain democratic support during the energy transition.
+Rising household energy costs have become an increasingly salient source of political discontent, yet it remains unclear how closely their political consequences reflect the financial burden they impose. Drawing on novel descriptive evidence and a preregistered survey experiment, this study extends research on economic risk by examining whether political responses to broadly experienced price increases extend beyond households facing substantial material hardship. Making rising energy prices salient reduces satisfaction with democracy among respondents both below and above the conventional ten percent energy burden threshold. Neither attributing rising prices to climate policy nor providing information about planned government support significantly alters the response. Open-ended responses suggest that while burdened households emphasize affordability concerns, less burdened respondents link price increases to broader economic uncertainty. Together, these findings suggest that the political consequences of rising energy prices extend beyond their immediate material impact, reaching households for whom the direct financial burden remains relatively modest.
 
 </details>
 
